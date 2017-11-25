@@ -447,7 +447,6 @@ blockquote p {
 .qam-main-nav-wrapper {
 	background: #2c503e;
 	color: #bdc3c7;
-	padding: 10px;
 }
 
 .qam-main-nav-wrapper a {
@@ -521,7 +520,7 @@ blockquote p {
 		padding: 5px 15px;
 	}
 	.qa-logo-link:hover {
-		background: #445f7a;
+		background: #447a5f;
 	}
 
 	.qa-nav-main {
@@ -610,7 +609,7 @@ blockquote p {
 }
 .qa-nav-main-link:hover {
 	text-decoration: none;
-	background: #445f7a;
+	background: #447a5f;
 }
 .qa-nav-main-link:before {
 	font-family: "fontello";
@@ -711,7 +710,7 @@ blockquote p {
 	text-align: center;
 }
 #qam-account-toggle:hover {
-	background: #445f7a;
+	background: #447a5f;
 }
 #qam-account-toggle .qam-auth-key {
 	font-size: 28px;
@@ -1031,7 +1030,7 @@ blockquote p {
 
 .qa-voting {
 	background-color: #ecf0f1;
-	color: #445f7a;
+	color: #447a5f;
 }
 
 .qa-a-count {
