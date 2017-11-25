@@ -93,7 +93,7 @@ a {
 	text-decoration: none;
 }
 a:active, a:focus {
-	color: #3498db;
+	color: #98ae48;
 	text-decoration: none;
 	outline: 0;
 }
@@ -102,7 +102,7 @@ a:visited {
 	text-decoration: none;
 }
 a:hover {
-	color: #3498db;
+	color: #98ae48;
 	text-decoration: underline;
 }
 
@@ -110,7 +110,7 @@ h1 {
 	position: relative;
 	margin: 0 0 5px;
 	padding: 8px 52px 8px 20px;
-	background: #3498db;
+	background: #98ae48;
 	color: #fff;
 	font-size: 1.4em;
 	line-height: 1.35em;
@@ -190,7 +190,7 @@ th, td {
 
 pre {
 	background-color: #e0e4e5;
-	border-left: 8px solid #3498db;
+	border-left: 8px solid #98ae48;
 	margin: 1em 0;
 	overflow: auto;
 	padding: 0.4em 0.8em;
@@ -209,7 +209,7 @@ code, samp, kbd {
 
 blockquote {
 	background-color: #e0e4e5;
-	border-left: 11px solid #3498db;
+	border-left: 11px solid #98ae48;
 	padding: 1em;
 	margin: 1em 0;
 	overflow-x: auto;
@@ -303,7 +303,7 @@ blockquote p {
 	background-color: #208e4e;
 }
 .qam-search.peter-river .qa-search {
-	background: #3498db;
+	background: #98ae48;
 }
 .qam-search.peter-river .qa-search-field:focus {
 	border-color: #1d6fa5;
@@ -639,7 +639,7 @@ blockquote p {
 	}
 }
 .qa-nav-main-link.qa-nav-main-selected {
-	background: #3498db;
+	background: #34db98;
 }
 
 .qa-nav-sub {
@@ -690,7 +690,7 @@ blockquote p {
 	color: #000;
 }
 .qa-nav-sub-link.qa-nav-sub-selected, .qa-nav-sub-link:visited.qa-nav-sub-selected, .qa-nav-sub-link:hover.qa-nav-sub-selected {
-	background-color: #3498db;
+	background-color: #98ae48;
 	color: #fff;
 }
 
@@ -1034,7 +1034,7 @@ blockquote p {
 }
 
 .qa-a-count {
-	background-color: #3498db;
+	background-color: #98ae48;
 	color: #fff;
 	text-align: center;
 }
@@ -1260,7 +1260,7 @@ blockquote p {
 	color: #1a6a9b;
 }
 .qa-q-item-title a:hover, .qa-q-item-title a:active, .qa-q-item-title a:focus, .qa-q-item-title a:visited {
-	color: #3498db;
+	color: #98ae48;
 }
 .qa-q-item-title:hover .qam-q-list-close-icon {
 	background-color: #c0392b;
@@ -1423,7 +1423,7 @@ blockquote p {
 .qa-page-selected {
 	padding: 5px 10px;
 	margin-bottom: 5px;
-	background: #3498db;
+	background: #98ae48;
 	color: #fff;
 	display: block;
 }
@@ -1788,7 +1788,7 @@ input, textarea, select {
 }
 input:focus, textarea:focus, select:focus {
 	background-color: #fff;
-	border-color: #3498db;
+	border-color: #98ae48;
 	outline: 0;
 }
 input::-moz-focus-inner, textarea::-moz-focus-inner, select::-moz-focus-inner {
@@ -1840,7 +1840,7 @@ input[type="submit"], button {
 	font-size: 14px;
 	-webkit-transition-duration: 0s;
 	transition-duration: 0s;
-	background: #3498db none;
+	background: #98ae48 none;
 	color: #fff;
 }
 .qa-form-tall-button:hover, .qa-form-tall-button:focus,
@@ -2057,7 +2057,7 @@ input[type="submit"], button {
 .qa-part-form-activity .qa-uf-user-c-posts,
 .qa-part-form-activity .qa-uf-user-q-votes,
 .qa-part-form-activity .qa-uf-user-a-votes {
-	color: #3498db;
+	color: #98ae48;
 }
 .qa-part-form-activity .qa-uf-user-upvotes,
 .qa-part-form-activity .qa-uf-user-upvoteds {
@@ -2153,7 +2153,7 @@ input[type="submit"], button {
 .qa-suggest-next {
 	padding: 10px;
 	margin-bottom: 5px;
-	background: #3498db;
+	background: #98ae48;
 	color: #fff;
 }
 .qa-suggest-next a {
@@ -2868,7 +2868,7 @@ input[type="submit"], button {
 	background: #2ecc71;
 }
 .qa-sidebar.peter-river {
-	background: #3498db;
+	background: #98ae48;
 }
 .qa-sidebar.amethyst {
 	background: #9b59b6;
@@ -3159,7 +3159,7 @@ input[type="submit"], button {
 .qa-ask-box {
 	padding: 10px 20px;
 	margin-bottom: 5px;
-	background: #3498db;
+	background: #98ae48;
 	color: #fff;
 	color: #fff;
 }
@@ -3292,7 +3292,7 @@ input[type="submit"], button {
 		border-left-color: #4aa3df;
 	}
 	.qam-search-mobile.peter-river.active {
-		background-color: #3498db;
+		background-color: #98ae48;
 	}
 	.qam-search-mobile.amethyst {
 		background-color: #954eb1;
