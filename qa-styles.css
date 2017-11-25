@@ -222,9 +222,8 @@ blockquote p {
 }
 
 .qa-search {
-	padding: 8px;
-	margin-bottom: 5px;
-	background: #bdc3c7;
+	padding: 2px;
+	background: #345e49;
 }
 
 .qa-search-field {
@@ -285,7 +284,7 @@ blockquote p {
 	background-color: #bf2718;
 }
 .qam-search.turquoise .qa-search {
-	background: #1abc9c;
+	background: #345e49;
 }
 .qam-search.turquoise .qa-search-field:focus {
 	border-color: #117964;
@@ -639,7 +638,7 @@ blockquote p {
 	}
 }
 .qa-nav-main-link.qa-nav-main-selected {
-	background: #34db98;
+	background: #94cb38;
 }
 
 .qa-nav-sub {
@@ -2862,7 +2861,7 @@ input[type="submit"], button {
 	background: #e74c3c;
 }
 .qa-sidebar.turquoise {
-	background: #1abc9c;
+	background: #94cb38;
 }
 .qa-sidebar.emerald {
 	background: #2ecc71;
@@ -2915,7 +2914,7 @@ input[type="submit"], button {
 	animation: shake 0.25s;
 }
 .qa-activity-count-item:nth-child(1) {
-	background: #1abc9c;
+	background: #94cb38;
 }
 .qa-activity-count-item:nth-child(1):before {
 	content: '\e801';
@@ -3195,7 +3194,7 @@ input[type="submit"], button {
 	.qam-ask-mobile a {
 		padding: 20px;
 		margin-bottom: 5px;
-		background: #1abc9c;
+		background: #94cb38;
 		color: #fff;
 		text-align: center;
 		font-size: 24px;
@@ -3246,7 +3245,7 @@ input[type="submit"], button {
 		background-image: url('images/icons/search-mobile.png');
 		background-repeat: no-repeat;
 		background-position: center;
-		background-color: #1abc9c;
+		background-color: #94cb38;
 		width: 64px;
 		display: table-cell;
 		border-left: 1px solid #1dd2af;
@@ -3278,7 +3277,7 @@ input[type="submit"], button {
 		border-left-color: #1dd2af;
 	}
 	.qam-search-mobile.turquoise.active {
-		background-color: #1abc9c;
+		background-color: #94cb38;
 	}
 	.qam-search-mobile.emerald {
 		background-color: #2bc06a;
