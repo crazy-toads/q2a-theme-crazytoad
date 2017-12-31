@@ -1394,6 +1394,13 @@ blockquote p {
 	background: #a63e12;
 	border-radius: .5em 0 0 .5em;
 }
+.qa-tag-link[href$="tag/%C3%A9ducation"],
+.qa-tag-link[href$="tag/sant%C3%A9"],
+.qa-tag-link[href$="tag/%C3%A9cologie"],
+.qa-tag-link[href$="tag/politique"],
+.qa-tag-link[href$="tag/m%C3%A9dias"] {
+	background: #199960;
+}
 
 .qa-page-links-list {
 	margin: 0;
