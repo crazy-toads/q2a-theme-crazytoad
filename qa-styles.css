@@ -1304,6 +1304,12 @@ blockquote p {
 	vertical-align: middle;
 	font-size: 12px;
 }
+.qa-category-link {
+  padding: 2px 8px;
+  background: #dddddd;
+  color: #444444;
+  border-radius: 1em;
+}
 .qa-q-item-meta .qa-category-link.qa-cat-favorited {
 	position: relative;
 	padding-left: 14px;
