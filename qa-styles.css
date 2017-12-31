@@ -1389,6 +1389,7 @@ blockquote p {
 .qa-tag-link[href$="tag/action"],
 .qa-tag-link[href$="tag/suggestion"],
 .qa-tag-link[href$="tag/question"],
+.qa-tag-link[href$="tag/information"],
 .qa-tag-link[href$="tag/opinion"] {
 	background: #a63e12;
 	border-radius: .5em 0 0 .5em;
