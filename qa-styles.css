@@ -1304,7 +1304,7 @@ blockquote p {
 	vertical-align: middle;
 	font-size: 12px;
 }
-.qa-category-link {
+.qa-category-link, .qa-category-link:visited {
   padding: 2px 8px;
   background: #dddddd;
   color: #444444;
@@ -1396,7 +1396,8 @@ blockquote p {
 .qa-tag-link[href$="tag/suggestion"],
 .qa-tag-link[href$="tag/question"],
 .qa-tag-link[href$="tag/information"],
-.qa-tag-link[href$="tag/opinion"] {
+.qa-tag-link[href$="tag/opinion"],
+.qa-tag-link[href$="tag/v%C3%A9cu"] {
 	background: #a63e12;
 	border-radius: .5em 0 0 .5em;
 }
